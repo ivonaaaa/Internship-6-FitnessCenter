@@ -1,0 +1,1001 @@
+ActivityID,Type,PricePerSession,MaxMembers
+1,ples,40,13
+2,yoga,10,18
+3,yoga,50,26
+4,yoga,10,4
+5,yoga,20,0
+6,yoga,40,48
+7,yoga,20,4
+8,injury rehabilitation,50,16
+9,trening snage,40,27
+10,yoga,40,46
+11,injury rehabilitation,10,33
+12,trening snage,20,26
+13,kardio,50,6
+14,injury rehabilitation,50,6
+15,ples,10,22
+16,trening snage,50,43
+17,injury rehabilitation,10,36
+18,trening snage,50,23
+19,yoga,40,19
+20,trening snage,10,49
+21,trening snage,20,16
+22,kardio,20,7
+23,kardio,30,23
+24,injury rehabilitation,40,23
+25,ples,10,1
+26,yoga,30,25
+27,injury rehabilitation,40,23
+28,yoga,30,42
+29,ples,20,9
+30,injury rehabilitation,50,17
+31,yoga,50,4
+32,ples,30,39
+33,trening snage,50,33
+34,ples,10,11
+35,ples,50,13
+36,injury rehabilitation,30,10
+37,trening snage,50,35
+38,kardio,20,10
+39,ples,10,13
+40,kardio,30,30
+41,kardio,10,23
+42,injury rehabilitation,50,42
+43,trening snage,40,33
+44,injury rehabilitation,50,24
+45,yoga,50,5
+46,yoga,10,28
+47,yoga,20,37
+48,injury rehabilitation,30,44
+49,kardio,30,13
+50,injury rehabilitation,30,18
+51,yoga,30,33
+52,yoga,40,7
+53,trening snage,50,40
+54,injury rehabilitation,10,26
+55,kardio,30,28
+56,yoga,50,37
+57,injury rehabilitation,50,3
+58,kardio,40,3
+59,injury rehabilitation,50,26
+60,yoga,30,29
+61,injury rehabilitation,20,4
+62,trening snage,30,38
+63,yoga,50,47
+64,injury rehabilitation,30,6
+65,trening snage,40,38
+66,injury rehabilitation,10,14
+67,yoga,40,33
+68,kardio,30,15
+69,kardio,10,42
+70,injury rehabilitation,50,33
+71,ples,20,10
+72,trening snage,40,37
+73,injury rehabilitation,50,34
+74,trening snage,20,29
+75,ples,40,1
+76,ples,40,7
+77,injury rehabilitation,10,6
+78,kardio,10,40
+79,kardio,40,41
+80,trening snage,50,48
+81,ples,10,28
+82,yoga,10,50
+83,kardio,30,43
+84,kardio,30,29
+85,kardio,40,5
+86,yoga,30,33
+87,yoga,20,18
+88,injury rehabilitation,30,25
+89,injury rehabilitation,10,36
+90,injury rehabilitation,40,45
+91,injury rehabilitation,50,20
+92,kardio,40,45
+93,yoga,30,11
+94,kardio,50,32
+95,kardio,10,40
+96,ples,40,42
+97,kardio,30,15
+98,injury rehabilitation,20,0
+99,injury rehabilitation,10,36
+100,kardio,50,40
+101,kardio,50,31
+102,yoga,10,15
+103,kardio,30,20
+104,kardio,40,10
+105,ples,50,39
+106,kardio,30,38
+107,kardio,20,13
+108,ples,50,30
+109,kardio,20,9
+110,yoga,30,17
+111,ples,50,38
+112,kardio,50,3
+113,kardio,40,21
+114,yoga,40,14
+115,kardio,30,10
+116,ples,40,25
+117,kardio,30,29
+118,trening snage,10,23
+119,yoga,20,10
+120,trening snage,10,5
+121,trening snage,40,0
+122,kardio,30,39
+123,ples,30,17
+124,ples,40,4
+125,yoga,20,30
+126,kardio,20,34
+127,trening snage,40,21
+128,injury rehabilitation,10,43
+129,yoga,30,11
+130,trening snage,20,37
+131,yoga,40,5
+132,kardio,10,38
+133,yoga,50,28
+134,injury rehabilitation,20,50
+135,yoga,40,49
+136,kardio,10,34
+137,injury rehabilitation,50,34
+138,ples,10,35
+139,ples,20,18
+140,injury rehabilitation,20,3
+141,injury rehabilitation,50,44
+142,trening snage,40,20
+143,trening snage,10,33
+144,trening snage,40,2
+145,kardio,50,43
+146,ples,50,44
+147,trening snage,50,5
+148,kardio,50,43
+149,injury rehabilitation,30,31
+150,yoga,10,19
+151,trening snage,20,41
+152,yoga,50,3
+153,ples,10,23
+154,injury rehabilitation,20,35
+155,ples,40,0
+156,kardio,30,5
+157,injury rehabilitation,20,1
+158,kardio,40,37
+159,ples,40,38
+160,trening snage,40,27
+161,kardio,30,35
+162,trening snage,50,35
+163,yoga,40,49
+164,yoga,50,30
+165,injury rehabilitation,40,35
+166,trening snage,40,33
+167,kardio,30,23
+168,trening snage,10,14
+169,kardio,40,15
+170,trening snage,10,46
+171,injury rehabilitation,50,34
+172,injury rehabilitation,10,35
+173,ples,30,4
+174,trening snage,40,11
+175,ples,30,30
+176,kardio,10,4
+177,kardio,40,16
+178,ples,50,34
+179,yoga,30,4
+180,kardio,20,32
+181,ples,10,43
+182,injury rehabilitation,10,13
+183,trening snage,10,8
+184,yoga,20,12
+185,ples,10,25
+186,trening snage,20,28
+187,kardio,50,35
+188,trening snage,30,25
+189,yoga,50,8
+190,kardio,20,24
+191,yoga,10,45
+192,injury rehabilitation,40,47
+193,kardio,50,28
+194,yoga,20,49
+195,ples,10,14
+196,kardio,40,33
+197,trening snage,30,23
+198,trening snage,40,42
+199,trening snage,40,46
+200,kardio,50,36
+201,yoga,10,29
+202,ples,30,22
+203,yoga,30,1
+204,yoga,40,32
+205,yoga,20,27
+206,kardio,40,48
+207,kardio,20,3
+208,ples,30,5
+209,ples,30,37
+210,kardio,20,10
+211,ples,30,23
+212,yoga,50,50
+213,injury rehabilitation,40,15
+214,trening snage,10,21
+215,yoga,30,47
+216,injury rehabilitation,20,2
+217,injury rehabilitation,20,34
+218,kardio,40,34
+219,trening snage,40,31
+220,yoga,30,34
+221,trening snage,20,23
+222,trening snage,50,17
+223,injury rehabilitation,20,17
+224,yoga,40,6
+225,trening snage,10,38
+226,injury rehabilitation,20,4
+227,ples,40,1
+228,yoga,10,2
+229,kardio,50,42
+230,yoga,10,23
+231,trening snage,50,5
+232,trening snage,30,20
+233,trening snage,10,19
+234,kardio,50,11
+235,ples,10,3
+236,kardio,30,27
+237,ples,30,13
+238,kardio,50,5
+239,kardio,10,27
+240,kardio,10,26
+241,ples,50,37
+242,yoga,20,9
+243,injury rehabilitation,40,3
+244,trening snage,20,34
+245,ples,10,43
+246,ples,40,2
+247,yoga,50,4
+248,trening snage,20,39
+249,trening snage,50,38
+250,kardio,20,13
+251,yoga,30,8
+252,kardio,20,10
+253,ples,40,37
+254,trening snage,40,5
+255,injury rehabilitation,30,25
+256,trening snage,40,10
+257,kardio,10,50
+258,injury rehabilitation,30,27
+259,trening snage,10,13
+260,kardio,10,42
+261,yoga,20,11
+262,ples,40,30
+263,ples,50,4
+264,injury rehabilitation,10,44
+265,ples,30,12
+266,injury rehabilitation,40,34
+267,ples,50,49
+268,ples,40,34
+269,ples,40,33
+270,yoga,20,11
+271,ples,40,1
+272,trening snage,30,8
+273,ples,40,24
+274,injury rehabilitation,50,40
+275,yoga,10,26
+276,injury rehabilitation,50,28
+277,trening snage,20,7
+278,ples,40,6
+279,ples,20,19
+280,kardio,20,31
+281,ples,20,22
+282,yoga,50,28
+283,ples,50,16
+284,injury rehabilitation,20,27
+285,yoga,30,25
+286,trening snage,10,43
+287,injury rehabilitation,20,21
+288,kardio,30,22
+289,injury rehabilitation,40,3
+290,kardio,40,48
+291,yoga,10,27
+292,kardio,30,39
+293,yoga,40,19
+294,ples,20,33
+295,yoga,10,37
+296,kardio,20,1
+297,trening snage,50,23
+298,injury rehabilitation,50,8
+299,trening snage,40,28
+300,injury rehabilitation,30,1
+301,injury rehabilitation,30,15
+302,yoga,10,17
+303,kardio,10,39
+304,kardio,10,41
+305,trening snage,20,10
+306,ples,20,48
+307,trening snage,50,6
+308,ples,10,11
+309,trening snage,20,38
+310,kardio,40,1
+311,ples,10,22
+312,injury rehabilitation,20,41
+313,trening snage,30,12
+314,kardio,30,36
+315,ples,50,12
+316,yoga,10,24
+317,ples,20,7
+318,ples,50,47
+319,kardio,20,11
+320,injury rehabilitation,50,42
+321,kardio,50,41
+322,kardio,50,22
+323,kardio,20,41
+324,yoga,10,38
+325,ples,20,31
+326,yoga,20,37
+327,injury rehabilitation,30,16
+328,trening snage,20,8
+329,yoga,50,24
+330,ples,10,3
+331,yoga,40,27
+332,ples,20,32
+333,ples,30,17
+334,yoga,20,32
+335,kardio,30,23
+336,trening snage,20,8
+337,yoga,40,22
+338,injury rehabilitation,30,10
+339,injury rehabilitation,10,18
+340,ples,30,29
+341,yoga,10,49
+342,kardio,50,7
+343,ples,50,46
+344,kardio,50,6
+345,yoga,50,34
+346,yoga,40,28
+347,injury rehabilitation,30,38
+348,yoga,30,50
+349,kardio,10,34
+350,yoga,10,4
+351,trening snage,20,44
+352,kardio,20,6
+353,ples,40,6
+354,injury rehabilitation,10,6
+355,injury rehabilitation,40,31
+356,ples,20,41
+357,trening snage,10,18
+358,yoga,20,1
+359,injury rehabilitation,50,24
+360,kardio,50,25
+361,yoga,50,18
+362,injury rehabilitation,50,41
+363,trening snage,50,25
+364,injury rehabilitation,10,19
+365,yoga,30,30
+366,trening snage,10,44
+367,kardio,20,2
+368,kardio,50,31
+369,kardio,50,42
+370,kardio,20,30
+371,yoga,20,36
+372,ples,10,45
+373,trening snage,10,9
+374,injury rehabilitation,30,40
+375,trening snage,10,32
+376,ples,40,34
+377,trening snage,50,36
+378,yoga,40,20
+379,trening snage,20,6
+380,yoga,10,7
+381,ples,20,49
+382,injury rehabilitation,40,31
+383,yoga,30,37
+384,ples,20,15
+385,injury rehabilitation,40,40
+386,ples,40,6
+387,injury rehabilitation,50,30
+388,ples,50,29
+389,ples,10,39
+390,kardio,40,0
+391,ples,10,13
+392,injury rehabilitation,40,3
+393,yoga,20,35
+394,ples,30,38
+395,yoga,50,28
+396,trening snage,10,43
+397,ples,30,45
+398,ples,10,16
+399,yoga,20,41
+400,kardio,40,19
+401,yoga,50,28
+402,trening snage,10,21
+403,injury rehabilitation,50,10
+404,trening snage,30,28
+405,trening snage,40,48
+406,trening snage,30,28
+407,yoga,10,9
+408,yoga,10,47
+409,injury rehabilitation,20,11
+410,injury rehabilitation,20,9
+411,kardio,20,19
+412,injury rehabilitation,50,0
+413,trening snage,10,37
+414,injury rehabilitation,50,3
+415,trening snage,10,47
+416,trening snage,10,5
+417,yoga,50,4
+418,ples,10,32
+419,trening snage,40,1
+420,injury rehabilitation,10,43
+421,trening snage,10,2
+422,trening snage,10,33
+423,trening snage,50,4
+424,injury rehabilitation,30,50
+425,trening snage,20,33
+426,yoga,50,27
+427,yoga,10,7
+428,ples,40,12
+429,kardio,10,30
+430,injury rehabilitation,10,27
+431,kardio,50,10
+432,injury rehabilitation,50,4
+433,kardio,30,13
+434,kardio,10,21
+435,ples,10,31
+436,yoga,20,17
+437,yoga,30,37
+438,yoga,40,26
+439,ples,40,17
+440,ples,40,29
+441,ples,50,16
+442,trening snage,30,50
+443,yoga,20,19
+444,yoga,40,21
+445,trening snage,10,40
+446,yoga,20,10
+447,trening snage,50,19
+448,injury rehabilitation,10,38
+449,ples,30,30
+450,injury rehabilitation,40,9
+451,injury rehabilitation,40,17
+452,trening snage,50,32
+453,ples,20,36
+454,trening snage,10,44
+455,injury rehabilitation,40,42
+456,trening snage,50,32
+457,kardio,50,21
+458,yoga,10,23
+459,kardio,50,37
+460,trening snage,10,14
+461,injury rehabilitation,30,43
+462,ples,20,2
+463,kardio,30,3
+464,trening snage,50,12
+465,trening snage,40,38
+466,ples,50,26
+467,kardio,50,48
+468,yoga,20,16
+469,trening snage,30,13
+470,trening snage,40,4
+471,injury rehabilitation,50,15
+472,kardio,10,47
+473,yoga,40,18
+474,yoga,10,18
+475,ples,20,31
+476,kardio,20,6
+477,ples,50,19
+478,ples,20,7
+479,ples,30,50
+480,trening snage,20,1
+481,ples,30,40
+482,yoga,50,28
+483,yoga,10,19
+484,kardio,30,2
+485,yoga,10,38
+486,injury rehabilitation,30,33
+487,yoga,10,20
+488,trening snage,10,45
+489,injury rehabilitation,50,40
+490,injury rehabilitation,50,10
+491,trening snage,20,18
+492,kardio,30,24
+493,injury rehabilitation,40,12
+494,yoga,50,15
+495,kardio,10,33
+496,kardio,20,12
+497,injury rehabilitation,40,24
+498,injury rehabilitation,20,40
+499,yoga,10,1
+500,injury rehabilitation,30,39
+501,ples,20,44
+502,kardio,50,36
+503,ples,50,14
+504,yoga,30,20
+505,kardio,20,46
+506,trening snage,10,17
+507,ples,50,31
+508,yoga,30,42
+509,yoga,40,43
+510,yoga,20,10
+511,injury rehabilitation,30,34
+512,kardio,20,19
+513,yoga,10,17
+514,kardio,30,36
+515,kardio,30,18
+516,trening snage,30,39
+517,trening snage,30,0
+518,kardio,10,16
+519,trening snage,10,29
+520,ples,30,9
+521,trening snage,50,28
+522,kardio,30,19
+523,injury rehabilitation,30,29
+524,trening snage,50,4
+525,trening snage,40,37
+526,ples,40,8
+527,yoga,10,31
+528,kardio,10,38
+529,ples,20,7
+530,injury rehabilitation,50,0
+531,injury rehabilitation,30,47
+532,yoga,20,33
+533,yoga,30,2
+534,trening snage,30,28
+535,trening snage,10,26
+536,injury rehabilitation,50,18
+537,trening snage,50,35
+538,trening snage,20,49
+539,yoga,40,30
+540,yoga,40,17
+541,ples,50,10
+542,ples,50,30
+543,kardio,50,29
+544,injury rehabilitation,20,8
+545,yoga,20,21
+546,injury rehabilitation,10,29
+547,kardio,40,45
+548,ples,10,19
+549,injury rehabilitation,10,48
+550,kardio,50,14
+551,trening snage,40,50
+552,injury rehabilitation,50,31
+553,kardio,20,49
+554,trening snage,20,9
+555,injury rehabilitation,20,39
+556,yoga,40,30
+557,ples,20,31
+558,ples,10,26
+559,trening snage,10,50
+560,kardio,40,12
+561,injury rehabilitation,10,49
+562,trening snage,20,3
+563,injury rehabilitation,20,1
+564,injury rehabilitation,50,10
+565,injury rehabilitation,30,44
+566,kardio,50,16
+567,ples,50,12
+568,kardio,10,39
+569,yoga,40,30
+570,trening snage,40,38
+571,yoga,40,14
+572,trening snage,40,24
+573,yoga,30,23
+574,trening snage,20,14
+575,trening snage,50,1
+576,trening snage,20,2
+577,injury rehabilitation,20,40
+578,kardio,10,7
+579,ples,50,32
+580,trening snage,40,42
+581,kardio,30,38
+582,ples,20,4
+583,trening snage,20,49
+584,injury rehabilitation,10,11
+585,ples,20,16
+586,yoga,40,45
+587,yoga,50,7
+588,trening snage,10,8
+589,yoga,30,40
+590,trening snage,30,24
+591,yoga,10,23
+592,kardio,30,43
+593,ples,20,36
+594,ples,10,39
+595,injury rehabilitation,10,41
+596,injury rehabilitation,50,16
+597,kardio,40,30
+598,ples,20,9
+599,trening snage,30,46
+600,injury rehabilitation,40,23
+601,kardio,30,25
+602,yoga,10,30
+603,ples,50,18
+604,kardio,10,43
+605,ples,40,12
+606,injury rehabilitation,10,45
+607,injury rehabilitation,30,32
+608,injury rehabilitation,10,37
+609,trening snage,20,4
+610,trening snage,40,9
+611,yoga,10,37
+612,injury rehabilitation,20,0
+613,injury rehabilitation,40,21
+614,yoga,20,13
+615,yoga,20,33
+616,ples,40,27
+617,kardio,20,12
+618,trening snage,20,32
+619,injury rehabilitation,20,16
+620,ples,50,19
+621,kardio,50,23
+622,injury rehabilitation,50,37
+623,injury rehabilitation,40,36
+624,yoga,40,38
+625,injury rehabilitation,40,22
+626,injury rehabilitation,30,17
+627,injury rehabilitation,50,44
+628,injury rehabilitation,20,3
+629,kardio,50,48
+630,yoga,10,17
+631,trening snage,20,25
+632,ples,40,40
+633,ples,30,46
+634,kardio,10,20
+635,injury rehabilitation,20,24
+636,trening snage,50,4
+637,trening snage,40,0
+638,injury rehabilitation,10,28
+639,kardio,50,9
+640,injury rehabilitation,20,29
+641,kardio,10,23
+642,yoga,30,13
+643,ples,50,40
+644,injury rehabilitation,20,17
+645,injury rehabilitation,40,44
+646,injury rehabilitation,20,45
+647,trening snage,40,8
+648,kardio,10,7
+649,ples,50,20
+650,injury rehabilitation,10,43
+651,yoga,30,0
+652,injury rehabilitation,10,45
+653,trening snage,30,49
+654,ples,50,44
+655,ples,10,33
+656,trening snage,10,12
+657,ples,40,4
+658,kardio,30,44
+659,trening snage,10,20
+660,trening snage,40,7
+661,ples,20,45
+662,yoga,50,13
+663,injury rehabilitation,50,25
+664,trening snage,50,29
+665,trening snage,30,28
+666,ples,50,19
+667,yoga,10,45
+668,kardio,50,5
+669,ples,50,36
+670,injury rehabilitation,10,26
+671,trening snage,40,23
+672,kardio,40,35
+673,trening snage,10,12
+674,injury rehabilitation,20,24
+675,trening snage,10,20
+676,yoga,40,50
+677,yoga,40,22
+678,kardio,50,31
+679,trening snage,20,29
+680,ples,10,38
+681,ples,40,21
+682,trening snage,10,28
+683,ples,10,35
+684,yoga,20,40
+685,kardio,50,27
+686,ples,20,25
+687,ples,40,13
+688,injury rehabilitation,20,32
+689,kardio,10,20
+690,trening snage,50,22
+691,ples,50,13
+692,injury rehabilitation,30,44
+693,injury rehabilitation,20,3
+694,yoga,10,48
+695,yoga,40,7
+696,yoga,50,10
+697,yoga,40,28
+698,ples,50,32
+699,yoga,50,20
+700,kardio,20,2
+701,injury rehabilitation,20,17
+702,ples,20,21
+703,injury rehabilitation,50,13
+704,trening snage,30,37
+705,ples,40,45
+706,injury rehabilitation,40,37
+707,kardio,50,34
+708,yoga,50,34
+709,kardio,20,28
+710,ples,40,32
+711,trening snage,20,28
+712,injury rehabilitation,30,36
+713,kardio,30,2
+714,kardio,20,37
+715,ples,30,21
+716,ples,30,5
+717,yoga,20,29
+718,ples,10,44
+719,trening snage,50,5
+720,yoga,40,50
+721,trening snage,20,34
+722,injury rehabilitation,30,31
+723,trening snage,20,42
+724,yoga,50,26
+725,ples,10,6
+726,ples,10,27
+727,ples,30,17
+728,injury rehabilitation,40,33
+729,ples,50,14
+730,ples,30,26
+731,injury rehabilitation,30,44
+732,kardio,10,29
+733,yoga,50,23
+734,kardio,10,21
+735,injury rehabilitation,30,45
+736,kardio,20,18
+737,injury rehabilitation,40,8
+738,injury rehabilitation,10,7
+739,injury rehabilitation,30,21
+740,kardio,50,2
+741,kardio,20,49
+742,yoga,10,40
+743,trening snage,10,42
+744,kardio,10,9
+745,ples,20,8
+746,ples,40,29
+747,kardio,20,46
+748,yoga,10,17
+749,yoga,10,3
+750,injury rehabilitation,30,33
+751,ples,50,15
+752,ples,40,3
+753,injury rehabilitation,40,24
+754,trening snage,20,13
+755,kardio,40,40
+756,yoga,50,27
+757,kardio,50,23
+758,trening snage,10,42
+759,ples,50,4
+760,yoga,30,7
+761,trening snage,30,16
+762,ples,20,34
+763,kardio,40,22
+764,yoga,20,1
+765,injury rehabilitation,20,40
+766,kardio,50,4
+767,trening snage,20,39
+768,injury rehabilitation,20,32
+769,ples,20,38
+770,injury rehabilitation,20,25
+771,ples,10,22
+772,yoga,40,6
+773,kardio,30,2
+774,trening snage,50,3
+775,injury rehabilitation,50,44
+776,kardio,20,17
+777,yoga,50,1
+778,ples,20,40
+779,kardio,20,9
+780,trening snage,50,25
+781,kardio,30,45
+782,yoga,50,5
+783,yoga,10,6
+784,trening snage,40,13
+785,trening snage,40,18
+786,injury rehabilitation,50,10
+787,ples,30,50
+788,trening snage,20,38
+789,injury rehabilitation,20,50
+790,ples,30,13
+791,injury rehabilitation,20,2
+792,trening snage,40,27
+793,injury rehabilitation,40,44
+794,trening snage,10,48
+795,trening snage,20,43
+796,injury rehabilitation,30,38
+797,yoga,50,36
+798,ples,20,41
+799,yoga,10,21
+800,ples,10,8
+801,injury rehabilitation,20,28
+802,trening snage,10,2
+803,injury rehabilitation,10,11
+804,injury rehabilitation,40,34
+805,ples,40,40
+806,ples,30,45
+807,ples,50,7
+808,ples,40,39
+809,kardio,40,9
+810,trening snage,30,19
+811,trening snage,40,32
+812,kardio,10,7
+813,yoga,10,21
+814,kardio,50,10
+815,kardio,50,37
+816,trening snage,50,25
+817,ples,50,28
+818,trening snage,10,24
+819,ples,20,22
+820,yoga,50,4
+821,yoga,10,26
+822,yoga,50,25
+823,kardio,30,32
+824,ples,30,42
+825,injury rehabilitation,20,26
+826,trening snage,10,22
+827,trening snage,40,30
+828,injury rehabilitation,30,35
+829,kardio,40,44
+830,kardio,40,12
+831,trening snage,30,46
+832,ples,50,22
+833,kardio,50,34
+834,ples,30,48
+835,ples,30,5
+836,trening snage,50,11
+837,ples,40,35
+838,ples,40,12
+839,injury rehabilitation,50,13
+840,injury rehabilitation,30,1
+841,yoga,20,38
+842,ples,30,24
+843,kardio,30,30
+844,yoga,50,35
+845,yoga,20,0
+846,injury rehabilitation,10,21
+847,trening snage,10,49
+848,kardio,40,24
+849,trening snage,40,33
+850,kardio,20,29
+851,ples,10,45
+852,trening snage,30,6
+853,kardio,30,10
+854,injury rehabilitation,50,19
+855,trening snage,10,21
+856,injury rehabilitation,10,50
+857,trening snage,10,33
+858,kardio,50,21
+859,trening snage,20,33
+860,yoga,20,50
+861,kardio,30,21
+862,trening snage,40,50
+863,injury rehabilitation,50,37
+864,ples,50,12
+865,yoga,40,37
+866,kardio,50,42
+867,yoga,10,13
+868,trening snage,30,10
+869,injury rehabilitation,50,25
+870,yoga,30,28
+871,yoga,20,15
+872,trening snage,10,22
+873,ples,30,7
+874,injury rehabilitation,20,15
+875,trening snage,30,39
+876,ples,30,26
+877,yoga,40,48
+878,trening snage,30,1
+879,trening snage,50,17
+880,ples,10,7
+881,kardio,30,3
+882,trening snage,40,5
+883,yoga,10,18
+884,yoga,10,29
+885,kardio,50,39
+886,ples,50,26
+887,ples,40,41
+888,trening snage,20,31
+889,kardio,50,42
+890,kardio,30,45
+891,kardio,50,4
+892,kardio,40,3
+893,yoga,50,11
+894,trening snage,50,20
+895,injury rehabilitation,10,10
+896,trening snage,20,16
+897,injury rehabilitation,30,44
+898,kardio,10,49
+899,ples,10,21
+900,injury rehabilitation,30,3
+901,ples,10,24
+902,ples,20,50
+903,yoga,30,11
+904,injury rehabilitation,20,14
+905,injury rehabilitation,40,28
+906,ples,50,44
+907,injury rehabilitation,40,41
+908,ples,40,20
+909,trening snage,20,6
+910,kardio,30,1
+911,trening snage,40,18
+912,injury rehabilitation,40,20
+913,yoga,20,40
+914,kardio,10,18
+915,kardio,10,25
+916,ples,30,41
+917,kardio,40,44
+918,injury rehabilitation,40,11
+919,trening snage,40,42
+920,ples,40,9
+921,yoga,20,9
+922,ples,20,37
+923,kardio,10,42
+924,kardio,30,3
+925,ples,50,30
+926,kardio,20,17
+927,injury rehabilitation,50,24
+928,ples,30,26
+929,injury rehabilitation,20,8
+930,trening snage,30,31
+931,ples,20,31
+932,kardio,10,35
+933,kardio,50,25
+934,ples,10,0
+935,trening snage,50,2
+936,ples,10,27
+937,trening snage,20,26
+938,trening snage,10,11
+939,kardio,10,31
+940,yoga,30,34
+941,yoga,20,49
+942,trening snage,10,19
+943,injury rehabilitation,50,29
+944,injury rehabilitation,20,50
+945,trening snage,30,0
+946,yoga,10,27
+947,yoga,20,25
+948,injury rehabilitation,30,10
+949,injury rehabilitation,30,1
+950,ples,50,41
+951,yoga,10,32
+952,trening snage,10,39
+953,kardio,20,21
+954,yoga,20,3
+955,trening snage,50,42
+956,yoga,40,45
+957,kardio,20,27
+958,ples,50,48
+959,trening snage,30,35
+960,kardio,30,6
+961,ples,40,27
+962,trening snage,20,40
+963,yoga,40,49
+964,yoga,50,22
+965,yoga,30,28
+966,trening snage,20,48
+967,trening snage,20,12
+968,ples,30,11
+969,trening snage,40,5
+970,ples,30,26
+971,yoga,30,9
+972,yoga,50,20
+973,trening snage,20,20
+974,injury rehabilitation,50,5
+975,ples,10,36
+976,ples,10,12
+977,injury rehabilitation,20,47
+978,injury rehabilitation,20,1
+979,kardio,40,22
+980,yoga,40,44
+981,trening snage,20,40
+982,trening snage,50,20
+983,trening snage,20,43
+984,injury rehabilitation,50,15
+985,injury rehabilitation,50,15
+986,ples,30,18
+987,ples,20,49
+988,ples,30,30
+989,ples,40,15
+990,yoga,50,12
+991,ples,20,22
+992,yoga,30,25
+993,trening snage,10,30
+994,ples,20,5
+995,kardio,20,0
+996,ples,10,43
+997,kardio,30,1
+998,ples,50,12
+999,ples,40,43
+1000,ples,10,42
