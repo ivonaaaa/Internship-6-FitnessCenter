@@ -11,6 +11,9 @@ CREATE TABLE Countries (
 	AverageSalary DECIMAL(10, 2) NOT NULL
 );
 
+ALTER TABLE Countries
+ALTER COLUMN Name TYPE VARCHAR(50);
+
 CREATE TABLE Trainers (
 	TrainerID SERIAL PRIMARY KEY,
 	Name VARCHAR(20) NOT NULL,
@@ -25,10 +28,13 @@ CREATE TABLE Trainers (
 CREATE TABLE Activities (
 	ActivityID SERIAL PRIMARY KEY,
 	Name VARCHAR(50) NOT NULL,
-	Type VARCHAR(30) NOT NULL CHECK (Type IN('trening snage','kardio', 'yoga', 'ples', 'injury rehabilitation')),
+	Type VARCHAR(30) NOT NULL CHECK (Type IN('trening snage', 'kardio', 'yoga', 'ples', 'injury rehabilitation')),
 	PricePerSession DECIMAL(10, 2) NOT NULL,
 	MaxMembers INT NOT NULL
 );
+
+ALTER TABLE Activities
+	DROP COLUMN Name
 
 CREATE TABLE Schedule (
 	ScheduleID SERIAL PRIMARY KEY,
@@ -68,7 +74,7 @@ CREATE TABLE Members (
 	MemberID SERIAL PRIMARY KEY,
 	Name VARCHAR(50) NOT NULL,
 	Surname VARCHAR(50) NOT NULL,
-	MembershipStartDate DATE NOT NULL --?
+	MembershipStartDate DATE NOT NULL
 );
 
 CREATE TABLE ActivitiesMembers (
