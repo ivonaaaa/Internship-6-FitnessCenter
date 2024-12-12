@@ -25,6 +25,14 @@ CREATE TABLE Trainers (
 	FitnessCenterID INT REFERENCES FitnessCenters(FitnessCenterID)
 );
 
+ALTER TABLE Trainers
+	DROP CONSTRAINT Trainers_Gender_check;
+
+ALTER TABLE Trainers
+	ADD CONSTRAINT Trainers_Gender_check
+	CHECK (Gender IN ('M', 'Z', 'N', 'D'));
+
+
 CREATE TABLE Activities (
 	ActivityID SERIAL PRIMARY KEY,
 	Name VARCHAR(50) NOT NULL,
@@ -83,15 +91,3 @@ CREATE TABLE ActivitiesMembers (
     MemberID INT REFERENCES Members(MemberID),
 	UNIQUE(ActivityID, MemberID)
 );
-
-
-
-
-
-
-
-
-
-
-
-

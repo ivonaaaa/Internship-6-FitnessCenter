@@ -23,6 +23,11 @@ FROM 'C:\Users\Public\Documents\Seeds\Trainers3.csv'
 DELIMITER ','
 CSV HEADER
 
+COPY Trainers(TrainerID, Name, Surname, BirthDate, Gender, TrainerType, CountryID, FitnessCenterID)
+FROM 'C:\Users\Public\Documents\Seeds\Trainers4.csv'
+DELIMITER ','
+CSV HEADER
+
 COPY Activities(ActivityID, Type, PricePerSession, MaxMembers)
 FROM 'C:\Users\Public\Documents\Seeds\Activities.csv'
 DELIMITER ','
@@ -45,6 +50,11 @@ CSV HEADER
 
 COPY ActivitiesTrainers(ActivitiesTrainersID, ActivityID, TrainerID, IsHeadTrainer)
 FROM 'C:\Users\Public\Documents\Seeds\ActivitiesTrainers2.csv'
+DELIMITER ','
+CSV HEADER
+
+COPY ActivitiesTrainers(ActivitiesTrainersID, ActivityID, TrainerID, IsHeadTrainer)
+FROM 'C:\Users\Public\Documents\Seeds\ActivitiesTrainers3.csv'
 DELIMITER ','
 CSV HEADER
 
@@ -77,8 +87,3 @@ COPY ActivitiesMembers(ActivitiesMembersID, ActivityID, MemberID)
 FROM 'C:\Users\Public\Documents\Seeds\ActivitiesMembers3.csv'
 DELIMITER ','
 CSV HEADER
-
-select * from members
-
-
-
